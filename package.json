@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test especified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "dependencies": {
+    "@lit-labs/motion": "^1.0.7",
+    "lit": "^2.8.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.1"
+  }
+}
